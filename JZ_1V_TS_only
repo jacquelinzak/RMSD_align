@@ -1,0 +1,1 @@
+rmsdAlign.py -if log JZ_1VfreqOG-5.log -it 47,46,42,43,44,48 -r JZ_1VOG-5.com -rt 47,46,42,43,44,48 -o JZ_1VOG_TSonly_rmsd_C5.xyz
